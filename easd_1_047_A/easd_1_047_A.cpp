@@ -1,8 +1,9 @@
-// 1. Jelaskan mengapa suatu algoritma dibutuhkan untuk menyelesaikan suatu masalah
-// 2. Dalam algortima diklasifikasikan menjadi 2 data struktur. Sebutkan 2 data struktur tersebut
-// 3. Untuk mengukur sebuah efisiensi waktu suatu algoritma dibutuhkan beberapa faktor. Sebutkan faktor-faktor yang mempengaruhi efisiensi waktu eksekusi suatu program
+// 1. Jelaskan mengapa suatu algoritma dibutuhkan untuk menyelesaikan suatu masalah ? Menyelesaikan masalah
+// 2. Dalam algortima diklasifikasikan menjadi 2 data struktur. Sebutkan 2 data struktur tersebut ? Linear dan non linear
+// 3. Untuk mengukur sebuah efisiensi waktu suatu algoritma dibutuhkan beberapa faktor. Sebutkan faktor-faktor yang mempengaruhi efisiensi waktu eksekusi suatu program? Penginputan
 // 4. Dari 6 algortima yang sudah dipelajari. Algoritma mana yang paling mudah dipahami dan diemplementasikan untuk mengurutkan data yang ukurannya besar. Jelaskan anda memilih itu
-// 5. Sebutkan dari algoritma yang sudah dipelajari mana yanng termasuk dalam Quadratic dan mana yang termasuk kedalam Loglinier
+// 5. Sebutkan dari algoritma yang sudah dipelajari mana yanng termasuk dalam Quadratic dan mana yang termasuk kedalam Loglinier? Quadratic : bubble sort, insertion sort 
+
 // 6. Buatlah sebuah program yang mengimplementasikan Merge sort menggunakan bahasa c++. Berikut merupakan Algoritma Merge sort
 
 #include <iostream>
